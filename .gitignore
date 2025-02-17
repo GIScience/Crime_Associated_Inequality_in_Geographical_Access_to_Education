@@ -1,0 +1,9 @@
+#ignore too large building files
+scripts/03_routing/ORS/__pycache__/client.cpython-38.pyc
+scripts/03_routing/ORS/__pycache__/response.cpython-38.pyc
+scripts/03_routing/ORS/__pycache__/route.cpython-38.pyc
+scripts/03_routing/ORS/__pycache__/route.cpython-312.pyc
+scripts/03_routing/ORS/__pycache__/response.cpython-312.pyc
+scripts/03_routing/ORS/__pycache__/client.cpython-312.pyc
+
+data
