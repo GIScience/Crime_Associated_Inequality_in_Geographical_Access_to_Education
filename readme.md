@@ -1,5 +1,8 @@
 # Crime-Associated Inequality in Physical Access to Education: Insights from the Municipality of Rio de Janeiro
 
+[![DOI](https://zenodo.org/badge/934192679.svg)](https://doi.org/10.5281/zenodo.14884889)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Abstract
 
 **Background**: Education is a fundamental right, supported by initiatives like Education for All (EFA) and the Millennium Development Goals (MDGs). Despite progress, full educational access remains challenging, particularly in highly criminal areas.
