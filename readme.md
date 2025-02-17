@@ -42,8 +42,6 @@ The project's data folder structure is organized as follows:
 - **[02_intermediate_output](/data/02_intermediate_output):** Saves the output from the script processing and analysis.
 - **[03_final_figures](/data/03_final_figures):** Contains the final figures generated from the analysis.
 
-The complete data folder can be downloaded from HeiData at: ..(to be filled)..
-
 ## Scripts Folder Structure
 
 The scripts folder contains notebooks for different stages of the project. Run them sequentially based on their file names:
