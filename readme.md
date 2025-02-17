@@ -42,18 +42,7 @@ The project's data folder structure is organized as follows:
 - **[02_intermediate_output](/data/02_intermediate_output):** Saves the output from the script processing and analysis.
 - **[03_final_figures](/data/03_final_figures):** Contains the final figures generated from the analysis.
 
-The following files could not be pushed to this repository due to large file size but can be requested from the authors upon request.
-- \data\01_input_data\00_zonal_stats_processed_data\access_to_job_60_min_CMAT60.tif
-- \data\01_input_data\00_zonal_stats_processed_data\analphabetic.tif
-- \data\01_input_data\00_zonal_stats_processed_data\average_income.tif
-- \data\01_input_data\00_zonal_stats_processed_data\building_height.tif
-- \data\01_input_data\00_zonal_stats_processed_data\building_points.gpkg
-- \data\01_input_data\00_zonal_stats_processed_data\ndvi.tif
-- \data\01_input_data\00_zonal_stats_processed_data\perceptural_safety_score_IDW.tif
-- \data\01_input_data\00_zonal_stats_processed_data\satellite_nightlight_saturation.tif
-- \data\01_input_data\00_zonal_stats_processed_data\travel_time_to_health_care_facility_TMIST.tif
-- \data\01_input_data\00_zonal_stats_processed_data\young_population.tif
-- \data\01_input_data\buildings_footprints.gpkg
+The complete data folder can be downloaded from HeiData at: ..(to be filled)..
 
 ## Scripts Folder Structure
 
