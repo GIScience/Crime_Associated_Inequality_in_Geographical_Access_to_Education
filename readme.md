@@ -26,7 +26,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://gitlab.gistools.geog.uni-heidelberg.de/rmuthusamy/safety-routing.git
+   git clone https://github.com/GIScience/Crime_Associated_Inequality_in_Geographical_Access_to_Education.git
    ```
 2. **Create the Environment:**
    ```bash
